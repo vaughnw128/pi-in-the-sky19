@@ -39,7 +39,9 @@ Field test with raw components in a foam football of some sorts. At this point h
 ### Week of 8/26/2019
 This week we are finishing up our writeup of this plan on Github, and working on getting materials for our project. So far, we have purchased clay pigeons from Field and Stream, and Charlie is working on creating a box around the pigeon to hold the mold. Vaughn is setting up the pi and is going to start work on a custom PCB soon.
 
-The dimensions of a standard clay pigeon are 108 mm in diameter and 14 mm tall. When creating a mold it's optimal to have at least a 1 inch buffer between the edge of the model(in this case the clay pigeon) and the edge of the mold. For this reason, the box around the clay pigeon should be around 40 mm tall with a 140x140 mm base. Charlie is planning to construct this box out of wood and then bring it in for the molding process. 
+The dimensions of a standard clay pigeon are 108 mm in diameter and 29 mm tall. When creating a mold it's optimal to have at least a 1 inch buffer between the edge of the model(in this case the clay pigeon) and the edge of the mold. For this reason, the box around the clay pigeon should be around 55 mm tall with a 140x140 mm base. Charlie is planning to construct this box out of wood and then bring it in for the molding process. 
+
+Using the size of the box we can calculate the volume inside and subtract out the space occupied by the clay pigeon. This will give us the amount of silicon we need for the mold. The box is about 36 fluid ounces and subtracting out the pigeons volume we get 
 
 ### Week of 9/2/2019
 
