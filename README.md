@@ -41,7 +41,9 @@ This week we are finishing up our writeup of this plan on Github, and working on
 
 The dimensions of a standard clay pigeon are 108 mm in diameter and 29 mm tall. When creating a mold it's optimal to have at least a 1 inch buffer between the edge of the model(in this case the clay pigeon) and the edge of the mold. For this reason, the box around the clay pigeon should be around 55 mm tall with a 140x140 mm base. Charlie is planning to construct this box out of wood and then bring it in for the molding process. 
 
-Using the size of the box we can calculate the volume inside and subtract out the space occupied by the clay pigeon. This will give us the amount of silicon we need for the mold. The box is about 36 fluid ounces and subtracting out the pigeons volume we get 
+Using the size of the box we can calculate the volume inside and subtract out the space occupied by the clay pigeon. This will give us the amount of silicon we need for the mold, and from there we can also find the amount of foam needed to fill the mold.
 
 ### Week of 9/2/2019
+This week Vaughn is working on setting up the components of the pi while Charlie is working on the mold. 
 
+I have decided to create the mold using a two part block method, first doing half of the mold, waiting for it to cure, and then pouring the other half. This will let us get the shape perfect and all of the details that help the pigeon fly. I will start constructing the box for the mold tonight, and should have the mold part of the way done by the end of this week.
