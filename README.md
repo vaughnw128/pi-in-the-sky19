@@ -12,7 +12,6 @@ Our plan is to create a foam version of a clay pigeon, which houses a raspberry 
 | Raspberry Pi Zero W  | Sigma Lab  | $10.00  |
 | LSM303DLHC Accelerometer  | Sigma Lab  | $7.95  |
 | LP803860 LiPo Battery | Sigma Lab | $12.50 |
-| PowerBoost 500 Charger | Sigma Lab | $14.95 |
 | Clay Pigeons | Field and Stream | $10.00 |
 | Box to create mold | Charlie's house | $0 |
 | Silicon Mold Kit | Amazon | ≈$35 |
