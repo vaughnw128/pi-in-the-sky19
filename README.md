@@ -45,4 +45,7 @@ Using the size of the box we can calculate the volume inside and subtract out th
 ### Week of 9/2/2019
 This week Vaughn is working on setting up the components of the pi while Charlie is working on the mold. 
 
-I have decided to create the mold using a two part block method, first doing half of the mold, waiting for it to cure, and then pouring the other half. This will let us get the shape perfect and all of the details that help the pigeon fly. I will start constructing the box for the mold tonight, and should have the mold part of the way done by the end of this week.
+I have decided to create the mold using a two part block method, first doing half of the mold, waiting for it to cure, and then pouring the other half. This will let us get the shape perfect and all of the details that help the pigeon fly. I will start constructing the box for the mold tonight, and hopefully get the mold done soon. 
+
+### Week of 9/9/2019
+This week our plan is to work on the mold and the software for the pi. So far, Charlie has modeled and laser cut a box for the mold to be formed in while Vaughn has been putting together the pi hardware so he can whip up the code. Hopefully this week Charlie can get the silicon and get the mold prepared to be filled, and next week we'll probably be ready to fill it. 
