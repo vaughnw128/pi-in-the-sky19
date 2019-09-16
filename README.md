@@ -51,7 +51,9 @@ I have decided to create the mold using a two part block method, first doing hal
 ### Week of 9/9/2019
 This week our plan is to work on the mold and the software for the pi. So far, Charlie has modeled and laser cut a box for the mold to be formed in while Vaughn has been putting together the pi hardware so he can whip up the code. Hopefully this week Charlie can get the silicon and get the mold prepared to be filled, and next week we'll probably be ready to fill it. Quick update for the end of the week: Vaughn has decided to create a custom PCB because it will help organization and Charlie has just ordered the silicone materials needed after using this week to construct the box for the mold. Next week Charlie will start the mold once the materials come in and Vaughn will continue his work. The extra steps we are taking might add some time to our schedule but as of right now we believe we will still finish on time.
 
-![Image of Box](https://octodex.github.com/images/castingbox.png)
+![Resized952019091695110550](https://user-images.githubusercontent.com/47390860/64971380-9c813f00-d875-11e9-9916-dc486f722c41.jpg)
+
+![Resized952019091695110553](https://user-images.githubusercontent.com/47390860/64971374-9ab77b80-d875-11e9-9aec-5a67aa2cc14f.jpg)
 
 ### Week of 9/16/2019
 Quick update: Over the weekend the silicon materials came in through Amazon but the release agent for the mold and part have not arrived yet. That means that today all I can do is set up the parts for casting and hopefully the release agent will be here tonight so we can start molding on the block day. 
