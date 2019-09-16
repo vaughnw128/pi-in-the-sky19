@@ -56,4 +56,4 @@ This week our plan is to work on the mold and the software for the pi. So far, C
 ![Resized952019091695110553](https://user-images.githubusercontent.com/47390860/64971374-9ab77b80-d875-11e9-9aec-5a67aa2cc14f.jpg)
 
 ### Week of 9/16/2019
-Quick update: Over the weekend the silicon materials came in through Amazon but the release agent for the mold and part have not arrived yet. That means that today all I can do is set up the parts for casting and hopefully the release agent will be here tonight so we can start molding on the block day. 
+Quick update: Over the weekend the silicon materials came in through Amazon but the release agent for the mold and part have not arrived yet. That means that today all I can do is set up the parts for casting and hopefully the release agent will be here tonight so we can start molding on the block day. The images shown above this text are the laser cut box(held together by string so we can easily remove the box pieces once the mold is finished), and the clay pigeon we will be molding with the tiny piece of wood thats going to hold it up so we don't have to do a two piece mold.
