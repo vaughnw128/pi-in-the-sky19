@@ -16,6 +16,7 @@ Our plan is to create a foam version of a clay pigeon, which houses a raspberry 
 | Box to create mold | Charlie's house | $0 |
 | Silicon Mold Kit | Amazon | ≈$35 |
 | Expanding foam | Amazon | ≈$35 |
+| Release Agent | Amazon | ≈$10 |
 
 ### Projected Issues
 One of the biggest issues that we project is the size and shape of the clay pigeon related to our foam replica. Because ideally we would like to shoot one off into the sky to gather our measurements, the size and shape must be accurate to the real thing in order to launch it using the same mechanisms. This is difficult due to how small the pigeon is and it's shape. Even the small components we need to add may affect the pigeons flight. Because we are creating a PCB to mount the components on, that may help us with our size concern. 
