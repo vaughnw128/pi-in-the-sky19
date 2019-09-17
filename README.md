@@ -58,3 +58,9 @@ This week our plan is to work on the mold and the software for the pi. So far, C
 ### Week of 9/16/2019
 Quick update: Over the weekend the silicon materials came in through Amazon but the release agent for the mold and part have not arrived yet. That means that today all I can do is set up the parts for casting and hopefully the release agent will be here tonight so we can start molding on the block day. The images shown above this text are the laser cut box(held together by string so we can easily remove the box pieces once the mold is finished), and the clay pigeon we will be molding with the tiny piece of wood thats going to hold it up so we don't have to do a two piece mold,
 Update 2: Today Charlie was the only one here because Vaughn was sick but I went through with the molding process anyways because the release agent had come in. These are my thoughts after just pouring, it hasn't set yet because it has a cure time of 75 minutes. I thought it went well but the amount of silicon we eneded was just a tiny bit more. I don't know yet if we will be able to get away wtih not buying more silicone but I hope that is the case. For now, Charlie ahs to research the foam and purchase that, and then deal with the mold once it has cured. 
+
+![IMG_20190917_113007139](https://user-images.githubusercontent.com/47390860/65056498-f39f1680-d93e-11e9-9f7d-6d20b6b292c9.jpg)
+
+![IMG_20190917_113012626](https://user-images.githubusercontent.com/47390860/65056483-ea15ae80-d93e-11e9-890b-bb2bf0c13412.jpg)
+
+The above images are showing parts of the molding process. The bucket was where I mixed the 2 part solution and then I proceeded to pour it directly into the box, where the mounted clay pigeon was set in place. There is a little bit of spillage because our box was not super tight, the string had loosened a bit, but it was mostly pretty clean. 
