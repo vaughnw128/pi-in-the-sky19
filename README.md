@@ -66,6 +66,10 @@ Update 2: Today Charlie was the only one here because Vaughn was sick but I went
 The above images are showing parts of the molding process. The bucket was where I mixed the 2 part solution and then I proceeded to pour it directly into the box, where the mounted clay pigeon was set in place. There is a little bit of spillage because our box was not super tight, the string had loosened a bit, but it was mostly pretty clean. 
 
 ### Week of 9/24/2019
-It is Tuesday the 24th and the mold is done. It looks super cool and is very fun to play with, and now all Charlie has left to do with the mold is purchase the foam material and pour it, which means the molding process will be done this week hopefully.
+It is Tuesday the 24th and the mold is done. It looks super cool and is very fun to play with, and now all Charlie has left to do with the mold is purchase the foam material and pour it, which means the molding process will be done this week hopefully. Here are some pictures showing the finished process.
 
+![IMG958986](https://user-images.githubusercontent.com/47390860/65524726-46874980-debc-11e9-8e42-7d80711deee7.jpg)
+![IMG958983](https://user-images.githubusercontent.com/47390860/65524729-47b87680-debc-11e9-91c3-6483b3b558d1.jpg)
+![IMG958984](https://user-images.githubusercontent.com/47390860/65524734-48e9a380-debc-11e9-8a2d-fa98ac94d61f.jpg)
+![IMG958985](https://user-images.githubusercontent.com/47390860/65524735-49823a00-debc-11e9-885c-eb43fda56f99.jpg)
 
