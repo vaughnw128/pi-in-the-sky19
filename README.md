@@ -30,7 +30,9 @@ Continue design on PCB, and try to get all wiring components working together an
 ### Week of 9/9/2019
 Field test with raw components in a foam football of some sorts. At this point hopefully start doing real tests on printing the PCB, and taking silicone castings of the clay pigeons.
 ### Week of 9/16/2019
+Pour silicon mold
 ### Week of 9/23/2019
+Pour foam and work on PCB
 ### Week of 9/30/2019
 ### Week of 10/7/2019
 
