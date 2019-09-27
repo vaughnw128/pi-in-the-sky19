@@ -73,3 +73,8 @@ It is Tuesday the 24th and the mold is done. It looks super cool and is very fun
 ![IMG958984](https://user-images.githubusercontent.com/47390860/65524734-48e9a380-debc-11e9-8a2d-fa98ac94d61f.jpg)
 ![IMG958985](https://user-images.githubusercontent.com/47390860/65524735-49823a00-debc-11e9-885c-eb43fda56f99.jpg)
 
+![IMG_20190927_112928855 (1)](https://user-images.githubusercontent.com/47390860/65781879-79c71400-e11a-11e9-9e76-ad0d58b98f46.jpg)
+![IMG_20190927_112935191](https://user-images.githubusercontent.com/47390860/65781883-7af84100-e11a-11e9-9272-b425e436d1e4.jpg)
+
+Here are some pictures showing the molding process and a failed foam mold. The foam has been hard to work with so hard, but we have so much material because the foam expands to 10 times its liquid size that we are able to trial and error a lot. Currently, we just poured our try for the day, and we're hoping that it turns out well otherwise we will have to continue pouring next week.
+
