@@ -80,3 +80,5 @@ It is Tuesday the 24th and the mold is done. It looks super cool and is very fun
 
 Here are some pictures showing the molding process and a failed foam mold. The foam has been hard to work with so hard, but we have so much material because the foam expands to 10 times its liquid size that we are able to trial and error a lot. Currently, we just poured our try for the day, and we're hoping that it turns out well otherwise we will have to continue pouring next week.
 
+### Week of 10/07/2019
+Currently the foam pigeon and cover to hold the pi and pcb in place are complete. Vaughn is working on the pcb and after that all we have to do is put the project together and do some tests and we're ready to go. Here are some pictures of what we have right now:
