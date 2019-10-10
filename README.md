@@ -89,4 +89,4 @@ Currently the foam pigeon and cover to hold the pi and pcb in place are complete
 ![IMG_20191007_110248015](https://user-images.githubusercontent.com/47390860/66323855-725df280-e8f2-11e9-9346-f2766d63f2ca.jpg)
 ![IMG_20191002_123247213](https://user-images.githubusercontent.com/47390860/66323856-725df280-e8f2-11e9-8e8b-32e3324a5777.jpg)
 ![IMG_20191007_110236804](https://user-images.githubusercontent.com/47390860/66323858-72f68900-e8f2-11e9-8851-a47652216648.jpg)
-
+This week we are trying to finish up the PCB. So far we have cut one board that isn't quite right, so Vaughn is quickly editing his design and then we will try again.
