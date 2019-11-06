@@ -34,8 +34,19 @@ Pour silicon mold
 ### Week of 9/23/2019
 Pour foam and work on PCB
 ### Week of 9/30/2019
+Get some foam models
 ### Week of 10/7/2019
-
+PCB Tests/Plan done on fritzing
+### Week of 10/14/2019
+Finished foam models, work on PCB
+### Week of 10/21/2019
+Start putting things together, work on code
+### Week of 10/28/2019
+Code
+### Week of 11/4/2019
+Code
+### Week of 11/11/2019
+Code
 ## Weekly Updates
 
 ### Week of 8/26/2019
