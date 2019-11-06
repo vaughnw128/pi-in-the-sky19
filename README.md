@@ -81,7 +81,7 @@ It is Tuesday the 24th and the mold is done. It looks super cool and is very fun
 Here are some pictures showing the molding process and a failed foam mold. The foam has been hard to work with so hard, but we have so much material because the foam expands to 10 times its liquid size that we are able to trial and error a lot. Currently, we just poured our try for the day, and we're hoping that it turns out well otherwise we will have to continue pouring next week.
 
 ### Week of 10/07/2019
-Currently the foam pigeon and cover to hold the pi and pcb in place are complete. Vaughn is working on the pcb and after that all we have to do is put the project together and do some tests and we're ready to go. Here are some pictures of what we have right now and some of the molding process as well:
+Currently the foam pigeon and cover to hold the pi and pcb in place are complete. Vaughn is working on the pcb and after that all we have to do is put the project together, finish the code, and we're ready to go. Here are some pictures of what we have right now and some of the molding process as well:
 ![IMG_20191007_110233751](https://user-images.githubusercontent.com/47390860/66323838-6a9e4e00-e8f2-11e9-9066-c43b8c58ad0e.jpg)
 ![IMG_20191001_120734557](https://user-images.githubusercontent.com/47390860/66323844-6d00a800-e8f2-11e9-80a4-4944008554f8.jpg)
 ![IMG_20191002_123300187](https://user-images.githubusercontent.com/47390860/66323848-6f630200-e8f2-11e9-895b-14a334624760.jpg)
@@ -90,3 +90,6 @@ Currently the foam pigeon and cover to hold the pi and pcb in place are complete
 ![IMG_20191002_123247213](https://user-images.githubusercontent.com/47390860/66323856-725df280-e8f2-11e9-8e8b-32e3324a5777.jpg)
 ![IMG_20191007_110236804](https://user-images.githubusercontent.com/47390860/66323858-72f68900-e8f2-11e9-8851-a47652216648.jpg)
 This week we are trying to finish up the PCB. So far we have cut one board that isn't quite right, so Vaughn is quickly editing his design and then we will try again.
+
+### Week of 11/6/2019'
+This week is a short week because of the small halloween break we had, but we are currently trying to finish up the code and make the pi tell us when it is at the top of its flight. The foam pigeons are pretty much totally complete, and the PCB is complete as well. Here are some pictures showing the finished foam pigeons as well as the pcb with everything on it.
