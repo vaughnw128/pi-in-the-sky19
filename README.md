@@ -93,3 +93,9 @@ This week we are trying to finish up the PCB. So far we have cut one board that 
 
 ### Week of 11/6/2019'
 This week is a short week because of the small halloween break we had, but we are currently trying to finish up the code and make the pi tell us when it is at the top of its flight. The foam pigeons are pretty much totally complete, and the PCB is complete as well. Here are some pictures showing the finished foam pigeons as well as the pcb with everything on it.
+![IMG_20191106_110543416](https://user-images.githubusercontent.com/47390860/68315374-ad844a80-0085-11ea-88df-95f73fed77c3.jpg)
+![IMG_20191106_110433068_BURST000_COVER_TOP](https://user-images.githubusercontent.com/47390860/68315379-ae1ce100-0085-11ea-980a-b8496b3682b2.jpg)
+![IMG_20191106_110523779](https://user-images.githubusercontent.com/47390860/68315382-af4e0e00-0085-11ea-8a83-90f8070c010c.jpg)
+![IMG_20191106_110539339](https://user-images.githubusercontent.com/47390860/68315385-b07f3b00-0085-11ea-9190-76ba5dbbdfb4.jpg)
+![IMG_20191106_110437254](https://user-images.githubusercontent.com/47390860/68315389-b1b06800-0085-11ea-860e-f3fb7f4121e7.jpg)
+
