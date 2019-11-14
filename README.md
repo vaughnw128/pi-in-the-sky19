@@ -102,7 +102,7 @@ Currently the foam pigeon and cover to hold the pi and pcb in place are complete
 ![IMG_20191007_110236804](https://user-images.githubusercontent.com/47390860/66323858-72f68900-e8f2-11e9-8851-a47652216648.jpg)
 This week we are trying to finish up the PCB. So far we have cut one board that isn't quite right, so Vaughn is quickly editing his design and then we will try again.
 
-### Week of 11/6/2019'
+### Week of 11/6/2019
 This week is a short week because of the small halloween break we had, but we are currently trying to finish up the code and make the pi tell us when it is at the top of its flight. The foam pigeons are pretty much totally complete, and the PCB is complete as well. Here are some pictures showing the finished foam pigeons as well as the pcb with everything on it.
 ![IMG_20191106_110543416](https://user-images.githubusercontent.com/47390860/68315374-ad844a80-0085-11ea-88df-95f73fed77c3.jpg)
 ![IMG_20191106_110433068_BURST000_COVER_TOP](https://user-images.githubusercontent.com/47390860/68315379-ae1ce100-0085-11ea-980a-b8496b3682b2.jpg)
@@ -110,3 +110,5 @@ This week is a short week because of the small halloween break we had, but we ar
 ![IMG_20191106_110539339](https://user-images.githubusercontent.com/47390860/68315385-b07f3b00-0085-11ea-9190-76ba5dbbdfb4.jpg)
 ![IMG_20191106_110437254](https://user-images.githubusercontent.com/47390860/68315389-b1b06800-0085-11ea-860e-f3fb7f4121e7.jpg)
 
+### Week of 11/14/2019
+This week we are working on coding, specifically the part where the pi will tell us when it reaches the vertex of its flight. This has been fairly problematic for us, so we are trying to get assistance from Shields and other students to help us out. 
