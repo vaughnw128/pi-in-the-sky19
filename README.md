@@ -112,3 +112,6 @@ This week is a short week because of the small halloween break we had, but we ar
 
 ### Week of 11/14/2019
 This week we are working on coding, specifically the part where the pi will tell us when it reaches the vertex of its flight. This has been fairly problematic for us, so we are trying to get assistance from Shields and other students to help us out. 
+
+### Week of 11/18/2019
+This week we are continuing our work on code. 
