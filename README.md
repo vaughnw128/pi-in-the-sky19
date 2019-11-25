@@ -114,4 +114,7 @@ This week is a short week because of the small halloween break we had, but we ar
 This week we are working on coding, specifically the part where the pi will tell us when it reaches the vertex of its flight. This has been fairly problematic for us, so we are trying to get assistance from Shields and other students to help us out. 
 
 ### Week of 11/18/2019
+This week we are continuing our work on code. Right now we have the acceleration, but we have to figure out how to use that to find when the pi is at the top of its flight path, and do something at that moment(probably turn on a light or play a sound).
+
+### Week of 11/25/2019
 This week we are continuing our work on code. 
