@@ -18,7 +18,7 @@ Our plan is to create a foam version of a clay pigeon, which houses a raspberry 
 | Silicon Mold Kit | Amazon | ≈$35 |
 | Expanding foam | Amazon | ≈$35 |
 | Release Agent | Amazon | ≈$10 |
-| Blue LED | Sigma Lab | ≈$0.20 |
+| Piezo Buzzer | Sigma Lab | ≈$1.50 |
 | Custom PCB Board | Sigma Lab | ≈$5 | 
 | Acrylic cover | Sigma Lab | ≈$3 |
 
@@ -125,4 +125,4 @@ This week we are working on coding, specifically the part where the pi will tell
 This week we are continuing our work on code. Right now we have the acceleration, but we have to figure out how to use that to find when the pi is at the top of its flight path, and do something at that moment(probably turn on a light or play a sound).
 
 ### Week of 11/25/2019
-This week we are continuing our work on code. 
+This week we are continuing our work on code. We are planning to remake the PCB and add a Piezo buzzer that will activate at the apex of the flight, and remove the LED.
