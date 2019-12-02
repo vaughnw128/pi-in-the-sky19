@@ -126,3 +126,6 @@ This week we are continuing our work on code. Right now we have the acceleration
 
 ### Week of 11/25/2019
 This week we are continuing our work on code. We are planning to remake the PCB and add a Piezo buzzer that will activate at the apex of the flight, and remove the LED.
+
+### Week of 12/2/2019
+We're continuing code.
