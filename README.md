@@ -129,3 +129,6 @@ This week we are continuing our work on code. We are planning to remake the PCB 
 
 ### Week of 12/2/2019
 We're continuing code.
+
+### Week of 12/9/2019
+Continuing code.
