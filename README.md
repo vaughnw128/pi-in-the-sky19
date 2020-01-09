@@ -137,4 +137,4 @@ Continuing code.
 Continuing code, break soon.
 
 ### Week of 1/3/20
-Got back from break, picking things back up with code. Trying to finish the Rieman sum, theta calculations are already good.
+Got back from break, picking things back up with code. Trying to finish the Riemann sum, theta calculations are already good.
