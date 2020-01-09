@@ -132,3 +132,9 @@ We're continuing code.
 
 ### Week of 12/9/2019
 Continuing code.
+
+### Week of 12/16/2019
+Continuing code, break soon.
+
+### Week of 1/3/20
+Got back from break, picking things back up with code. Trying to finish the Rieman sum, theta calculations are already good.
