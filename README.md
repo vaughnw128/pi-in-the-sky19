@@ -143,4 +143,4 @@ Got back from break, picking things back up with code. Trying to finish the Riem
 Continuing code.
 
 ### Week of 1/20/2020
-Short week because of MLK, continuing code.
+Short week because of MLK, continuing code. Progress is slow because Vaughn is in New York and code is hard.
