@@ -144,3 +144,9 @@ Continuing code.
 
 ### Week of 1/20/2020
 Short week because of MLK, continuing code. Progress is slow because Vaughn is in New York and code is hard.
+
+### Week of 1/27/2020
+Code
+
+### Week of 2/3/2020
+Code
